@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+section{
+    background-color: blueviolet;
+}
+footer{
+    background-color: black;
+    
+}
+ul{
+    list-style: none;
+    text-align: center;
+    color: aliceblue;
+}
